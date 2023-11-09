@@ -1,0 +1,15 @@
+fastapi
+gunicorn
+joblib
+numpy
+pandas
+plotly
+pandas
+pydantic
+python-multipart
+scikit-learn
+streamlit
+requests
+typing
+uvicorn
+xgboost
