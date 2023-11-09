@@ -1,4 +1,4 @@
-## Projet 'Is is Worth investing in this NBA player ?'
+## Projet 'Is it Worth investing in this NBA player ?'
 
 ***
 L’objectif est de fournir un classifier permettant de prédire 
