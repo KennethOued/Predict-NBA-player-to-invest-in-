@@ -1,8 +1,7 @@
 ## Projet 'Is is Worth investing in this NBA player ?'
 
 ***
-L’objectif est de fournir un classifier permettant de prédire 
-qu’un joueur vaut le coup d’investir sur lui car il va durer plus de 5 ans en NBA en s’appuyant sur ses statistiques sportives. Ce modèle vise a conseiller des investisseur cherchant à capitaliser sur de futurs talents de la NBA
+L’objectif est de fournir un classifier permettant de prédire s'il vaut le coup d’investir sur un un joueur NBA car il va durer plus de 5 ans en NBA en s’appuyant sur ses statistiques sportives. Ce modèle vise a conseiller des investisseur cherchant à capitaliser sur de futurs/actuels talents de la NBA
 
 
 ## Table of Contents
